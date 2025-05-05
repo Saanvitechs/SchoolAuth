@@ -1,11 +1,5 @@
 server:
   port: 8080
-  servlet:
-    contextPath: /agentService
-
-
-
-
 
 spring:
   application:
